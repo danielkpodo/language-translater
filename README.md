@@ -76,6 +76,14 @@ https://github.com/danielkpodo/language-translater.git
 pip install translate
 ```
 
+3. Paste text to into the file at `./translations/navy_ethos`
+
+```sh
+you can change the language options in app.py
+```
+
+Visit [wikipedia](https://en.wikipedia.org/wiki/ISO_639-1) for supported lang options
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -105,6 +113,6 @@ Project Link: [https://github.com/danielkpodo/language-translater](https://githu
 [stars-shield]: https://img.shields.io/github/stars/danielkpodo/language-translater.svg?style=flat-square
 [stars-url]: https://github.com/danielkpodo/language-translater/stargazers
 [license-shield]: https://img.shields.io/github/license/danielkpodo/language-translater.svg?style=flat-square
-[license-url]: https://github.com/danielkpodo/language-translater/blob/master/LICENSE
+[license-url]: https://github.com/danielkpodo/language-translater/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daniel-narh-kpodo/
