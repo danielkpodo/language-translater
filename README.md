@@ -39,7 +39,7 @@
 ## About The Project
 
 **A python translation script that translates one text in one language to another**.
-It supports severla labaguages
+It supports several languages
 
 ### Built With
 
