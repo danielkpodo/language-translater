@@ -82,6 +82,10 @@ pip install translate
 you can change the language options in app.py
 ```
 
+4. In terminal run the command `python app.py`
+
+_Wait for the program to complete and the success message_. Once done open `./translations/converted.txt/` for your translated text. Note this script supports a maximum of 500 characters
+
 Visit [wikipedia](https://en.wikipedia.org/wiki/ISO_639-1) for supported lang options
 
 ## Contributing
