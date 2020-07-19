@@ -105,6 +105,6 @@ Project Link: [https://github.com/danielkpodo/language-translater](https://githu
 [stars-shield]: https://img.shields.io/github/stars/danielkpodo/language-translater.svg?style=flat-square
 [stars-url]: https://github.com/danielkpodo/language-translater/stargazers
 [license-shield]: https://img.shields.io/github/license/danielkpodo/language-translater.svg?style=flat-square
-[license-url]: https://github.com/danielkpodo/language-translater/blob/master/LICENSE.txt
+[license-url]: https://github.com/danielkpodo/language-translater/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daniel-narh-kpodo/
