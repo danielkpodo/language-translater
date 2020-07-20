@@ -76,7 +76,7 @@ https://github.com/danielkpodo/language-translater.git
 pip install translate
 ```
 
-3. Paste text to into the file at `./translations/navy_ethos`
+3. Paste text into the file at `./translations/navy_ethos`
 
 ```sh
 you can change the language options in app.py
