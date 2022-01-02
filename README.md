@@ -64,7 +64,7 @@ install the latest version of python on your set-up
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repository
 
 ```sh
 https://github.com/danielkpodo/language-translater.git
@@ -79,7 +79,7 @@ pip install translate
 3. Paste text into the file at `./translations/navy_ethos`
 
 ```sh
-you can change the language options in app.py
+you can alter the language options in app.py
 ```
 
 4. In terminal run the command `python app.py`
